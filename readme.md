@@ -69,3 +69,6 @@ skill set
 			YOU WILL HAVE TO WRITE HIS/HER EMAIL 
 	-play some music (music will be opend on gmail)
 
+
+	<!-- The author has been changed to rohitpandey0018@gmail.com -->
+
